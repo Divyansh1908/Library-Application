@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LibraryApp</string>
+    <string name="createAcc">Create Account</string>
+    <string name="placeHold">Place Hold</string>
+    <string name="manageSystem">Manage System</string>
+    <string name="usrnme">Enter Username</string>
+    <string name="pswd">Enter Password</string>
+    <string name="Submit">Submit</string>
+    <string name="cmptr">Computer Science</string>
+    <string name="fic">Fiction</string>
+    <string name="mem">Memoir</string>
+    <string name="lgin">Login</string>
+    <string name="ys">Yes</string>
+    <string name="n">No</string>
+    <string name="o">Ok</string>
+    <string name="ask">Do you want to add a book</string>
+    <string name="bkt">Enter Book\'s Title</string>
+    <string name="au">Enter Author</string>
+    <string name="gen">Enter Genre</string>
+    <string name="abut">Add Book</string>
+    <string name="bktm">Back To Main Menu</string>
+    <string name="i">No book of this Genre, Please select the exit button</string>
+    <string name="ext">Exit</string>
+</resources>
